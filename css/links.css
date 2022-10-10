@@ -1,0 +1,13 @@
+.link {
+    color: #24b9d7;
+    text-decoration: none;
+}
+
+a{
+    color:#7a7a7a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #24b9d7;
+  }
